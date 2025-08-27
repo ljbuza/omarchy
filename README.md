@@ -4,7 +4,10 @@ Turn a fresh Arch installation into a fully-configured, beautiful, and modern we
 
 Read more at [omarchy.org](https://omarchy.org).
 
+## Custom Installation for existing Arch users
+
+[INSTALL_CHANGES.md](INSTALL_CHANGES.md)
+
 ## License
 
 Omarchy is released under the [MIT License](https://opensource.org/licenses/MIT).
-
